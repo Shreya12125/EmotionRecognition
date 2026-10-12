@@ -1,0 +1,17 @@
+@"
+
+# Datasets and model checkpoints
+crema_data/
+AudioWAV.zip
+data/
+dataset/
+datasets/
+cache/
+models/
+*.pt
+*.pth
+*.h5
+*.keras
+*.ckpt
+ser_results.zip
+"@ | Add-Content .gitignore
